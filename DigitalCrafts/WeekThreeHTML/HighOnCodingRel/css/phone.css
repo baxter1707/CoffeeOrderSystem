@@ -1,0 +1,62 @@
+.heading {
+  display: flex;
+  align-content:center;
+}
+
+ul {
+  display: flex;
+  flex-direction: column;
+
+
+}
+
+li {
+  align-items: center;
+  text-align: center;
+
+}
+
+.review-box h2 {
+  text-align: center;
+}
+
+.review-box p {
+  margin: 10px;
+}
+
+.article-1 h2{
+  text-align: center;
+}
+
+.article-1 p{
+  margin: 10px;
+}
+
+.article-1 ul{
+  flex-direction: row;
+  background-color: orange;
+  margin: 0px 15px 0px 15px;
+}
+
+.article-1 li {
+  margin-right: 10px;
+}
+
+
+.article-2 h2{
+  text-align: center;
+}
+
+.article-2 p{
+  margin: 10px;
+}
+
+.article-2 ul{
+  flex-direction: row;
+  background-color: orange;
+  margin: 0px 15px 0px 15px;
+}
+
+.article-2 li {
+  margin-right: 10px;
+}

@@ -1,0 +1,45 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+
+h1 {
+  color:white;
+}
+.heading {
+    background-color: rgb(72,157,249);
+}
+
+.heading a {
+  color:white;
+  font-size: 1.2em;
+
+}
+
+ul {
+  list-style: none;
+}
+
+.review-box{
+  background-color: rgb(216,217,220);
+  margin: 20px ;
+}
+
+.article-1 {
+  margin: 0px 20px 0px 20px;
+}
+
+.article-1 h2{
+  color: rgb(72,157,249);
+}
+
+.article-1 li {
+  color: white;
+}
+.article-2 li {
+  color: white;
+}
+
+.article-2 h2{
+  color: rgb(72,157,249);
+}

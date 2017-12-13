@@ -1,0 +1,30 @@
+
+/*
+ul {
+  text-align:center;
+  display: flex;
+
+
+}
+
+ul li {
+  align-items: center;
+  background-color: gray;
+  padding:10px;
+  margin:10px;
+  color:white;
+} */
+
+.post h1 {
+  background-color:lightBlue;
+}
+
+.post img {
+  width:100%;
+  display:block;
+}
+
+.post-image {
+    float:left;
+    margin-right:10px;
+}

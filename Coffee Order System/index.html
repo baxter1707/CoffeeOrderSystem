@@ -1,0 +1,49 @@
+<html>
+<head>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0"></meta>
+    <link rel="stylesheet" type = "text/css" href= "css/main.css"></link>
+    <link rel="stylesheet" type = "text/css" href="css/mobile.css" media = "only screen and (min-device-width:320px)"></link>
+    <link rel="stylesheet" type = "text/css" href="css/desktop.css" media = "only screen and (min-device-width:1024px)"></link>
+    <link rel="stylesheet" type = "text/css" href= "css/jquery-ui.css"></link>
+</head>
+
+<body>
+  <div class="create-order-container">
+    <h3> Create Order</h3>
+    <label>Input Customer Email</label>
+    <input id="create-order-email" type="email"></input>
+    <label> Input Customer Order </label>
+    <input id="create-customer-order" type="text"></input>
+    <button id="submit-button">Submit Order</button>
+  </div>
+
+
+  <div>
+    <h3> Search Order </h3>
+    <input id="email-entry" type="email"></input>
+    <button id="search-orders-button">Search by Email</button>
+    <ul id="search-result">
+
+    </ul>
+  </div>
+
+
+
+  <div>
+    <h3> View All Orders</h3>
+    <button id="view-orders-button">View Orders</button>
+    <ul id="order-list">
+
+    </ul>
+  </div>
+
+
+</body>
+
+
+
+<script src="https://code.jquery.com/jquery-3.2.1.min.js"
+integrity="sha256-hwg4gsxgFZhOsEEamdOYGBf13FyQuiTwlAQgxVSNgt4="
+crossorigin="anonymous"></script>
+<script src="js/app.js"></script>
+</html>

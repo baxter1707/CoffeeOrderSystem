@@ -1,0 +1,8 @@
+.blueHeader {
+  display: flex;
+  flex-direction: row;
+}
+.blueHeader div {
+  margin: 30px;
+
+}

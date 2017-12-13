@@ -1,0 +1,27 @@
+.body-home {
+  background-color: gray;
+}
+
+.body-portfolio {
+  background-color: red;
+}
+
+.body-contactus {
+  background-color: orange;
+}
+
+.div-green ul li {
+  background-color: gray;
+}
+
+.div-green {
+  background-color: green;
+}
+
+.div-yellow {
+  background-color: yellow;
+}
+
+.div-yellow ul li {
+  background-color: orange;
+}

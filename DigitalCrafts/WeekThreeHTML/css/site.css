@@ -1,0 +1,36 @@
+.background-image {
+  background: url(images/homebackground.jpg);
+}
+
+.background-color-orange {
+  background-color: orange;
+}
+
+.background-color-blue {
+  background-color: blue;
+}
+
+
+.font-color-orange {
+  color: Orange;
+}
+
+.horizontal-rectangle {
+  width: 600px;
+  height: 300px;
+}
+
+.vertical-rectangle {
+  width: 250px;
+  height: 350px;
+}
+
+.square {
+  width:300px;
+  height:300px;
+
+}
+
+.center {
+
+}

@@ -1,0 +1,16 @@
+form {
+  display: flex;
+  flex-direction: column;
+}
+
+fieldset {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: auto;
+  text-align: center;
+}
+
+fieldset button {
+  margin: auto;
+}

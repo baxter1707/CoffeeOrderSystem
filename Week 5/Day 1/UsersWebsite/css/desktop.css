@@ -1,0 +1,22 @@
+.user-list {
+
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 auto 0 auto;
+}
+
+.user-section {
+  display: flex;
+}
+
+.customerInfo {
+  width:300;
+  height:175;
+  background-color: orange;
+  border: solid;
+  margin: 10px auto 10px auto;
+  padding: 16px 1px 0px 1px;
+  text-align: center;
+}

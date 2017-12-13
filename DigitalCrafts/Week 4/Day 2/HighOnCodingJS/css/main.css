@@ -1,0 +1,10 @@
+.blueHeader {
+  background-color: blue;
+  color: white;
+}
+.blueHeader a {
+  color: white;
+}
+.gray-box {
+  background-color: grey;
+}

@@ -1,0 +1,28 @@
+.navigation {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+
+}
+
+ul {
+  align-items: center;
+  border: 3px;
+  list-style: none;
+}
+
+body {
+  background-color: yellow;
+}
+
+
+.content {
+  display:flex;
+  flex-direction: column;
+}
+
+.post {
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}

@@ -1,0 +1,9 @@
+
+.poster {
+  width:50;
+  height:50;
+}
+
+.movieDivContainer {
+  display:flex; 
+}

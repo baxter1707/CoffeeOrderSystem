@@ -1,0 +1,23 @@
+.user-list {
+  padding-left: 0;
+  text-align: center;
+
+}
+
+h1 {
+  text-align: center;
+}
+
+.user-section {
+  display: flex;
+}
+
+.customerInfo {
+  margin-top: 30px
+
+}
+
+label {
+  font-size: 1.3em;
+  font-weight: bold;
+}

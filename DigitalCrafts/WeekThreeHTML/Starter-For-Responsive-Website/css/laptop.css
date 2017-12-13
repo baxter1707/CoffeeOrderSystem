@@ -1,0 +1,26 @@
+.navigation {
+  display: flex;
+  justify-content: flex-start;
+  flex-direction: row;
+
+}
+
+ul {
+  list-style: none;
+}
+
+
+body {
+  background-color: gray;
+}
+
+
+.post {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+img {
+  flex-basis: 50px;
+}
